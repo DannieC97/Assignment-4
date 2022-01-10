@@ -1,0 +1,46 @@
+.bottom{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    border: solid 4px black;
+    border-radius: 7px;
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 100px;
+    
+}
+.top{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    border: solid 4px black;
+    border-radius: 7px;
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 100px;
+    text-align: center;
+    
+    
+    
+    
+}
+nav {
+    display: flex;
+    justify-content: center;
+
+    
+}
+a {
+    margin: 6px;
+}
+body {
+    background-color: grey;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+
